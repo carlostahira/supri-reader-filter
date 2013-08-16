@@ -1,0 +1,20 @@
+{
+    "name": "carlostahira/supri-reader-filter",
+    "description": "Classe que implementa interface PHPExcel_Reader_IReadFilter para filtrar os dados das planilhas do sistema Supri",
+    "require": {
+    	"php": ">=5.3.0",
+        "phpexcel/phpexcel": "v1.7.*"
+    },
+    "authors": [
+        {
+            "name": "Carlos T",
+            "email": "carlostahira@gmail.com"
+        }
+    ],
+    "minimum-stability": "RC",
+    "autoload": {
+        "psr-0": {
+            "HelloWorld": "src/"
+        }
+    }
+}
