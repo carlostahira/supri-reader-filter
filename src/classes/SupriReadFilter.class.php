@@ -1,7 +1,4 @@
 <?php
-set_include_path(get_include_path() . PATH_SEPARATOR . dirname(__FILE__) . DS . '../PHPExcel/Classes/');
-
-require_once('PHPExcel/Reader/IReadFilter.php');
 
 class SupriReadFilter implements PHPExcel_Reader_IReadFilter {
 	private $_startRow = 0;
