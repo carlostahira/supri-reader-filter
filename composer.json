@@ -3,7 +3,7 @@
     "description": "Classe que implementa interface PHPExcel_Reader_IReadFilter para filtrar os dados das planilhas do sistema Supri",
     "require": {
     	"php": ">=5.3.0",
-        "phpexcel/phpexcel": "v1.7.*"
+        "phpexcel/phpexcel": "v1.7.7"
     },
     "authors": [
         {
