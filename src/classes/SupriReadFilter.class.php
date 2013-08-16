@@ -1,5 +1,7 @@
 <?php
 
+namespace SupriReadFilter;
+
 class SupriReadFilter implements PHPExcel_Reader_IReadFilter {
 	private $_startRow = 0;
 	private $_endRow = 0;
