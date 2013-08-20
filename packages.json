@@ -1,0 +1,15 @@
+{
+    "packages": {
+    	"name": "carlostahira/supri-reader-filter",
+    	"version": "1.0.0",
+    	"dist": {
+    		"url": "http://github.com/carlostahira/supri-reader-filter",
+    		"type": "zip"
+    	}
+    },
+    "source": {
+    	"url": "http://github.com/carlostahira/supri-reader-filter",
+    	"type": "git",
+    	"reference": ""
+    }
+}
