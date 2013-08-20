@@ -11,10 +11,10 @@
             "email": "carlostahira@gmail.com"
         }
     ],
-    "minimum-stability": "RC",
+    "minimum-stability": "1.0",
     "autoload": {
         "psr-0": {
-            "HelloWorld": "src/"
+            "SupriReadFilter": "src/classes"
         }
     }
 }
