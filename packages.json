@@ -3,12 +3,12 @@
     	"name": "carlostahira/supri-reader-filter",
     	"version": "1.0.0",
     	"dist": {
-    		"url": "http://github.com/carlostahira/supri-reader-filter",
+    		"url": "http://github.com/carlostahira/supri-reader-filter.git",
     		"type": "zip"
     	}
     },
     "source": {
-    	"url": "http://github.com/carlostahira/supri-reader-filter",
+    	"url": "http://github.com/carlostahira/supri-reader-filter.git",
     	"type": "git",
     	"reference": ""
     }
