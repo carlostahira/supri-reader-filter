@@ -1,6 +1,6 @@
 <?php
 
-//namespace SupriReaderFilter;
+namespace SupriReaderFilter;
 
 class SupriReaderFilter implements PHPExcel_Reader_IReadFilter
 {
