@@ -11,8 +11,8 @@
         }
     ],
     "autoload": {
-        "psr-0": {
-            "SupriReadFilter": "src/classes"
+        "classmap": {
+            "SupriReadFilter": ["src/classes"]
         }
     }
 }
