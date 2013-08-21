@@ -12,7 +12,7 @@
     ],
     "autoload": {
         "classmap": {
-            "SupriReadFilter": ["src/classes"]
+            "SupriReaderFilter": ["src/classes"]
         }
     }
 }
